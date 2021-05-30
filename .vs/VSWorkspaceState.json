@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\containers",
+    "\\src\\containers\\Auth",
+    "\\src\\containers\\Auth\\Logout",
+    "\\src\\containers\\BurgerBuilder",
+    "\\src\\containers\\Checkout",
+    "\\src\\containers\\Checkout\\ContactData",
+    "\\src\\store",
+    "\\src\\store\\reducers"
+  ],
+  "SelectedNode": "\\src\\containers\\Auth\\Logout\\Logout.js",
+  "PreviewInSolutionExplorer": false
+}
